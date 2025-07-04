@@ -1,0 +1,5 @@
+{
+    "version": "1.0.1",
+    "download_url": "https://github.com/yourusername/messenger-project/releases/download/v1.2.0/messenger.exe",
+    "changelog": "- Добавлена система автоматических обновлений"
+}
